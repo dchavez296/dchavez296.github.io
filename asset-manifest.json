@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11cc2903.chunk.css",
+    "main.js": "/static/js/main.9d07d889.chunk.js",
+    "main.js.map": "/static/js/main.9d07d889.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.5280fab8.chunk.js": "/static/js/2.5280fab8.chunk.js",
+    "static/js/2.5280fab8.chunk.js.map": "/static/js/2.5280fab8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9f577d83ff1e5044b6a3c6253400b9ab.js": "/precache-manifest.9f577d83ff1e5044b6a3c6253400b9ab.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.11cc2903.chunk.css.map": "/static/css/main.11cc2903.chunk.css.map",
+    "static/js/2.5280fab8.chunk.js.LICENSE.txt": "/static/js/2.5280fab8.chunk.js.LICENSE.txt",
+    "static/media/8secondz.png": "/static/media/8secondz.9388d614.png",
+    "static/media/Solstar_logo.png": "/static/media/Solstar_logo.de8b4f8c.png",
+    "static/media/bartini.png": "/static/media/bartini.c7b2dbe0.png",
+    "static/media/cabbagetreelandscape.png": "/static/media/cabbagetreelandscape.7feddacb.png",
+    "static/media/cactus.png": "/static/media/cactus.ad8ee816.png",
+    "static/media/cactuscan.png": "/static/media/cactuscan.9ef3cb72.png",
+    "static/media/greenrune.png": "/static/media/greenrune.b5e7976a.png",
+    "static/media/mail.png": "/static/media/mail.ff892d71.png",
+    "static/media/profile.png": "/static/media/profile.f7cd36dc.png",
+    "static/media/psykinetic.png": "/static/media/psykinetic.9c1952ca.png",
+    "static/media/solstargames.png": "/static/media/solstargames.952556c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.5280fab8.chunk.js",
+    "static/css/main.11cc2903.chunk.css",
+    "static/js/main.9d07d889.chunk.js"
+  ]
+}
